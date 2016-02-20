@@ -14,4 +14,4 @@ A web app allows you to manage your bills, charges, etc. User authentication sys
 4. View in browser at `http://localhost:8080`
 
 ## Screenshot
-![Imgur]()
+![Imgur](http://i.imgur.com/z66IRji.png)
